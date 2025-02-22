@@ -1,2 +1,2 @@
-- 👋 Hey there! I'm @iKripto.
-- 🌱 Currently pursuing a degree in IT while honing my skills in Java, C++, Python, and CSS+HTML. I'm also deeply passionate about cybersecurity and continuously expanding my knowledge in the field through self-study.
+- Hey there! I'm @iKripto.
+- Currently pursuing a degree in IT while honing my skills in Java, C++, Python, and CSS+HTML. I'm also deeply passionate about cybersecurity and continuously expanding my knowledge in the field through self-study.
