@@ -2,9 +2,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iKripto's Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
-</p>
 
+</p>
 <p align="center">
   Bem-vindo! Me chamo Yago Nascimento e estudo Análise e Desenvolvimento de Sistemas. 
   Fique à vontade para ver os projetos que posto no GitHub. Além de programação, estudo também 
