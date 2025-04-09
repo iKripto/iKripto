@@ -8,7 +8,6 @@
   Bem-vindo! Me chamo Yago Nascimento e estudo Análise e Desenvolvimento de Sistemas. 
   Fique à vontade para ver os projetos que posto no GitHub. Além de programação, estudo também 
   cibersegurança e redes.
-  Sei um pouco de tudo, mas não sei muito de nada.
 </p>
 
 <h2></h2>
