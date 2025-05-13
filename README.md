@@ -4,8 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
 </p>
 <p align="center">
-  Bem-vindo! Me chamo Yago Nascimento e estudo Análise e Desenvolvimento de Sistemas. 
-  Além de programação, estudo também cibersegurança e redes.
+  Bem vindo. Me chamo Yago Siqueira Nascimento e, desde pequeno, sou apaixonado por tecnologia. Em 2024, iniciei meu curso de Análise e Desenvolvimento de Sistemas. Não demorou muito para eu largar meu emprego e iniciar um estágio em um Hub de inovação. No meu tempo livre, me aperfeiçoei na arte da impressão 3D, dominando uma área que até então era pouco explorada.
+  Atualmente, estudo diversas linguagens, além de redes e cibersegurança.
 </p>
 
 <h2></h2>
