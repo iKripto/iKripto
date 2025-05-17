@@ -4,9 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
 </p>
 <p align="center">
- <br>Em 2024, iniciei meu curso de Análise e Desenvolvimento de Sistemas.<br>
-  Não demorou muito para eu largar meu emprego e iniciar um estágio na Fomenta Vale. <br>No meu tempo livre, me aperfeiçoei na arte da impressão 3D, dominando uma área que até <br>então era pouco explorada.
-  Atualmente, estudo diversas linguagens, além de redes e cibersegurança.<br>
+  Em 2024, iniciei meu curso de Análise e Desenvolvimento de Sistemas.<br>
+  Não demorou muito para eu largar meu emprego e iniciar um estágio na Fomenta Vale.<br>
+  No meu tempo livre, me aperfeiçoei na arte da impressão 3D, dominando uma área que até então era pouco explorada.<br>
+  Atualmente, estudo diversas linguagens, além de redes e cibersegurança.
+</p>
 </p>
 
 <h2></h2>
