@@ -4,7 +4,7 @@
 
 Em 2024, iniciei minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas**. Pouco tempo depois, decidi seguir um novo rumo na carreira e ingressei como **estagiário voluntário na Fomenta Vale**, onde busco aplicar e expandir meus conhecimentos na prática.
 
-Paralelamente, me aprofundei no universo da **impressão 3D**, tornando-me especialista em uma área ainda pouco explorada, unindo criatividade e domínio técnico. Esse conhecimento me proporcionou a oportunidade de atuar no **Hub Inova da FEMA**.
+Paralelamente, me aprofundei no universo da **impressão 3D**, tornando-me especialista em uma área ainda pouco explorada, unindo criatividade e domínio técnico. Esse conhecimento me proporcionou a oportunidade de atuar no **Hub Inova da FEMA** na equipe de desenvolvimento Front-End e Modelagem/Impressão 3D. 
 
 Atualmente, estou focado no aprendizado de **diversas linguagens de programação**, além de estudar **redes** e **cibersegurança**.
 
