@@ -10,11 +10,10 @@ Atualmente, estou focado no aprendizado de **diversas linguagens de programaçã
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iKripto&show_icons=true&theme=tokyonight&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikripto&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iKripto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px" />
 </div>
 
----
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
