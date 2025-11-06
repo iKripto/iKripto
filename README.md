@@ -1,17 +1,16 @@
-## Olá, me chamo Yago
+## Olá, me chamo Yago.
 
 ### Sobre mim
 
-Em 2024, iniciei minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas**. Pouco tempo depois, decidi seguir um novo rumo na carreira e ingressei como **estagiário voluntário na Fomenta Vale**, onde busco aplicar e expandir meus conhecimentos na prática.
+Em 2024, iniciei minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas**. Pouco tempo depois, decidi seguir um novo rumo na carreira e ingressei como **estagiário voluntário na Fomenta Vale**, onde busquei expandir meus conhecimentos e aprender mais.
 
-Paralelamente, me aprofundei no universo da **impressão 3D**, tornando-me especialista em uma área ainda pouco explorada, unindo criatividade e domínio técnico. Esse conhecimento me proporcionou a oportunidade de atuar no **Hub Inova da FEMA** na equipe de desenvolvimento Front-End e Modelagem/Impressão 3D. 
+Paralelamente, me aprofundei no universo da **impressão e modelagem 3D**, aprendendo muito em uma área ainda pouco explorada, unindo criatividade e trabalho técnico. Esse conhecimento me proporcionou a oportunidade de atuar no **Hub Inova da FEMA** na equipe de desenvolvimento Front-End e Modelagem/Impressão 3D. 
 
-Atualmente, estou focado no aprendizado de **diversas linguagens de programação**, além de estudar **redes** e **cibersegurança**.
-
+Atualmente, estou focado no aprendizado de Java Springboot, Laravel, React e Django.
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iKripto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180px" />
 </div>
 
 <div align="center">
