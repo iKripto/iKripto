@@ -7,6 +7,7 @@ Em 2024, iniciei minha jornada acadêmica no curso de **Análise e Desenvolvimen
 Paralelamente, me aprofundei no universo da **impressão e modelagem 3D**, aprendendo muito em uma área ainda pouco explorada, unindo criatividade e trabalho técnico. Esse conhecimento me proporcionou a oportunidade de atuar no **Hub Inova da FEMA** na equipe de desenvolvimento Front-End e Modelagem/Impressão 3D. 
 
 Atualmente, estou focado no aprendizado de Java Springboot, Laravel, React e Django.
+
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iKripto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165px"/>
