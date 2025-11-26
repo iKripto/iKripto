@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada come�
 ## 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,c,angular,react,js,html,css&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,angular,react,js,html,css&perline=9" alt="Languages" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=unity,blender,git,github,linux,mongodb,postgres,vscode&perline=9" alt="Tools" />
 </div>
