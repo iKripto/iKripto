@@ -38,14 +38,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada come�
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikripto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="" />
-  
-  <br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikripto&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikripto&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -59,9 +52,5 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada come�
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikripto&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ikripto" />
 </div>
 
