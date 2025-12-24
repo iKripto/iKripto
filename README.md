@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Olá, sou Yago Nascimento 👋</h1>
+  <h1 align="center">Olá, sou Yago Nascimento.</h1>
   <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
   <br/>
   
@@ -12,19 +12,19 @@
 
 <br/>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada começou como estagiário na **Fomenta Vale** e hoje estou focado em tecnologias imersivas.
 
-- 🔭 Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual** e **Modelagem/Impressão 3D**.
-- 🌱 No momento estou aprofundando meus conhecimentos em **.NET (C#)**, **Python** e **Arquitetura de Software**.
-- 💡 Tenho interesse em desenvolvimento de Games (Unity), Automação, Sistemas Web e Modelagem e Impressão 3D.
-- 🎓 Análise e Desenvolvimento de Sistemas.
+- Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual** e **Modelagem/Impressão 3D**.
+- No momento estou aprofundando meus conhecimentos em **.NET (C#)**, **Python** e **Arquitetura de Software**.
+- Tenho interesse em desenvolvimento de Games (Unity), Automação, Sistemas Web e Modelagem e Impressão 3D.
+- Análise e Desenvolvimento de Sistemas.
 
 
 <br/>
 
-## 🛠️ Tech Stack & Ferramentas
+## Tech Stack & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,angular,react,js,html,css&perline=9" alt="Languages" />
@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada come�
 
 <br/>
 
-## 📊 Minhas Estatísticas
+## Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikripto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="" />
