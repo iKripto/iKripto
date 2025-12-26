@@ -13,9 +13,6 @@
 <br/>
 
 ## Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada começou como estagiário na **Fomenta Vale** e hoje estou focado em tecnologias imersivas.
-
 - Atualmente trabalho no **Hub Inova FEMA** com **Realidade Virtual** e **Modelagem/Impressão 3D**.
 - No momento estou aprofundando meus conhecimentos em **.NET (C#)**, **Python** e **Arquitetura de Software**.
 - Tenho interesse em desenvolvimento de Games (Unity), Automação, Sistemas Web e Modelagem e Impressão 3D.
