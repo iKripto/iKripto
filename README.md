@@ -34,8 +34,8 @@
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikripto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikripto&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yagosnascimento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosnascimento&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="" />
 </div>
 
 <br/>
